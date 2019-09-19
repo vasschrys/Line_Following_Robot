@@ -1,6 +1,6 @@
 /* 
  * File:   lab12_main.c
- * Author: martinz
+ * Author: chrysanv & martinz
  *
  * Created on December 6, 2018, 1:04 PM
  */
